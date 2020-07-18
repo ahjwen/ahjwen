@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://givensir.oss-cn-hangzhou.aliyuncs.com/themes/hudong_1.gif)
 My Blog.[click me](https://blog.givensir.cn/)
 
 **ahjwen/ahjwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ---
 #### Statistical data
 ![](https://github-readme-stats.vercel.app/api?username=ahjwen&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=4BA3F0)
-![](https://givensir.oss-cn-hangzhou.aliyuncs.com/themes/111.jpg)
+
